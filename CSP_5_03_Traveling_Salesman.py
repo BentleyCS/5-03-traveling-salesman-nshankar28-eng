@@ -141,7 +141,3 @@ def DrawExample(places):
                 running = False
         pygame.display.flip()
     # Quit Pygame
-
-DrawExample(places)
-#DrawExample(generate_RandomCoordinates(5))# DO NOT run more than 9 or 10
-pygame.quit()
